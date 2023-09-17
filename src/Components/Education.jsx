@@ -8,7 +8,7 @@ const imageAltText = "education image";
 const Education = () => {
     return(
         <section className="light" id="education">
-            <h2>Education</h2>
+            <h2 style={{ textAlign:"center" }}>Education</h2>
         <div style={{ display: "flex", flexDirection: "row", paddingTop: "3rem" }}>
             <div style={{ maxWidth: "40%", alignSelf: "center" }}>
                 <img
