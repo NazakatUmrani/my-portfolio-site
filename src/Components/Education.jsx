@@ -1,6 +1,6 @@
 import React from "react";
 
-import image from "../images/education-wall.jpg";
+import image from "../images/education-wall.jpeg";
 
 const imageAltText = "education image";
 
